@@ -43,6 +43,7 @@
   + Replace method arguments with different values.
 
 # ***Description of applied mutations and their impact***
++ 
 # ***Summary of mutant survival and killing***
 + Summary of Mutant Survial and Killing with original PolyTest.py
 
@@ -56,6 +57,5 @@
 # ***Analysis of the test suite's effectiveness***
 # ***Recommendations for improving the test suite***
 # ***Conclusion***
-# ***Recommendations for improving the test suite***
-# ***Conclusion***
+
 
