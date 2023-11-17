@@ -44,6 +44,15 @@
 
 # ***Description of applied mutations and their impact***
 # ***Summary of mutant survival and killing***
++ Summary of Mutant Survial and Killing with original PolyTest.py
+
+  ![image](https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/f306f222-505a-4222-beb3-7eca080c61b5)
+
++ Summary of Mutant Survival and Killing with Test Suite Revision(s):
+
+   ![image](https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/8175f707-f662-448e-9f6d-4472d540e47d)
+
+
 # ***Analysis of the test suite's effectiveness***
 # ***Recommendations for improving the test suite***
 # ***Conclusion***
