@@ -91,11 +91,11 @@
 # ***Summary of mutant survival and killing***
 + Summary of Mutant Survial and Killing with original PolyTest.py
 
-  ![image](https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/f306f222-505a-4222-beb3-7eca080c61b5)
+![image](https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/be95f324-c996-45d2-82b2-89b767b9dc8e)
 
 + Summary of Mutant Survival and Killing with Test Suite Revision(s):
 
-   ![image](https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/8175f707-f662-448e-9f6d-4472d540e47d)
+![image](https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/e32bfff0-8bd1-42c9-9006-209857a4a273)
 
 
 # ***Analysis of the test suite's effectiveness***
@@ -120,11 +120,11 @@ Overall Analysis: My score shows that the test suites I have does an efficient j
 To conclude, improving the mutation score, killed mutants, survived mutants, etc. is not an easy task. It takes a lot of trial and error and can take some time. Analyzing the test suites and results helps us to find ways to improve the numbers. Analyzing the results after each modification helps us keep track of how the results are improving or getting worse. It is important to re-run the mutation testing each time to get a clear idea of what is happening. That way we are able to add/delete what we need to get a better score. It is also important to documents your results, changes, etc. so we/others have something to go off of when the codebase is revisited to run more testing. 
 
 # ***Some of My Added Test Cases(Suites)***
-<img src="https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/d40e2a12-9bbc-42dd-9839-f1503ed2a0b8" width="400" height="300">
+<img src="https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/a64d78c1-b4ae-4372-ac76-53bcc3214bd7" width="400" height="300">
 
-<img src="https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/7b988203-6cb1-4456-83ff-98d30ea418b0" width="500" height="300">
+<img src="https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/b76fd9b9-9392-4576-9d10-c7a4b3a1ab3b" width="500" height="300">
 
-<img src="https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/e9ef0b65-a369-437d-ad47-22b4e2554042" width="400" height="300">
+<img src="https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/1a0820df-b683-4e98-96a9-3b4c235780b7" width="400" height="300">
 
 
 
