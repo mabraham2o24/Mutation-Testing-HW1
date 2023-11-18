@@ -119,4 +119,13 @@ Overall Analysis: My score shows that the test suites I have does an efficient j
 # ***Conclusion***
 To conclude, improving the mutation score, killed mutants, survived mutants, etc. is not an easy task. It takes a lot of trial and error and can take some time. Analyzing the test suites and results helps us to find ways to improve the numbers. Analyzing the results after each modification helps us keep track of how the results are improving or getting worse. It is important to re-run the mutation testing each time to get a clear idea of what is happening. That way we are able to add/delete what we need to get a better score. It is also important to documents your results, changes, etc. so we/others have something to go off of when the codebase is revisited to run more testing. 
 
+# ***Some of My Added Test Cases(Suites)***
+<img src="https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/d40e2a12-9bbc-42dd-9839-f1503ed2a0b8" width="400" height="300">
+
+<img src="https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/7b988203-6cb1-4456-83ff-98d30ea418b0" width="500" height="300">
+
+<img src="https://github.com/mabraham2o24/Mutation-Testing-HW1/assets/143213640/e9ef0b65-a369-437d-ad47-22b4e2554042" width="400" height="300">
+
+
+
 
